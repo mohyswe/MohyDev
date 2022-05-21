@@ -1,5 +1,5 @@
-Hi there 👋, my name is Ahmed Mohy
-a Passionate Software developer with a never-ending drive to improve my skills & a strong aptitude for problem-solving, and I am a lifelong learner.
+Hi there 👋
+my name is Ahmed Mohy & i'm a Passionate Software developer with a never-ending drive to improve my skills & a strong aptitude for problem-solving, and I am a lifelong learner.
 Skilled in JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, PostgreSQL, MongoDB and more.
 
 Skills: Html, CSS, JavaScript, React, & other technologies
