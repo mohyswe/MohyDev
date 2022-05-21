@@ -7,7 +7,7 @@ Skills: Html, CSS, JavaScript, React, & other technologies
 
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
