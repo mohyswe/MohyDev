@@ -1,9 +1,22 @@
 Hi there 👋
 
-I'm Ahmed (MohyDev) from Egypt, Passionate developer with a never-ending drive to improve my skills & a strong aptitude for problem-solving, and I am a lifelong learner.
+### Hi there 👋, my name is Ahmed Mohy
+#### Design & Development
+![Design & Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+a Passionate developer with a never-ending drive to improve my skills & a strong aptitude for problem-solving, and I am a lifelong learner.
 Skilled in JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, PostgreSQL, MongoDB and more.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Html, CSS, JavaScript, React, & other technologies
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
+[![Mohy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
