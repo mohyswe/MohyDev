@@ -5,11 +5,7 @@ Skilled in JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, Postg
 
 Skills: Html, CSS, JavaScript, React, & other technologies
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohyDev)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MohyDev/)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MohyDev)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohyDev)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MohyDev/)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MohyDev)  
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)
 
