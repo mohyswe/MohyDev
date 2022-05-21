@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Ahmed Mohy
-#### Design & Development
+Hi there 👋, my name is Ahmed Mohy
+
 a Passionate developer with a never-ending drive to improve my skills & a strong aptitude for problem-solving, and I am a lifelong learner.
 Skilled in JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, PostgreSQL, MongoDB and more.
 
@@ -7,11 +7,11 @@ Skills: Html, CSS, JavaScript, React, & other technologies
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
