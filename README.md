@@ -5,6 +5,10 @@ Skilled in JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, Postg
 
 Skills: Html, CSS, JavaScript, React, & other technologies
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
