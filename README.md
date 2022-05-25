@@ -1,10 +1,15 @@
 
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+Hi there,
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
-
-Hi there 👋
 my name is Ahmed Mohy & i'm a Passionate Software developer with a never-ending drive to improve my skills & a strong aptitude for problem-solving.
 
 Skilled in JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, PostgreSQL, MongoDB and more.
