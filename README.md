@@ -9,9 +9,9 @@ Skilled in JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, Postg
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohyDev)     
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohyDev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohyDev&show_icons=true)](https://github.com/MohyDev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohyDev)](https://github.com/MohyDev/github-readme-stats)
 
 
 <a href="https://github.com/MohyDev/github-readme-stats">
