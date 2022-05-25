@@ -14,11 +14,11 @@ Skilled in JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, Postg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/MohyDev/github-readme-stats">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=MohyDev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/MohyDev/convoychat">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
 
 <!--
