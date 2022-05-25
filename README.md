@@ -30,7 +30,7 @@ Skilled in JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, Postg
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-###Social Links:
+### : Social Links:
 
 <div align="center">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MohyDev)
