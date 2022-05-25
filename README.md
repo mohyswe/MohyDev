@@ -1,11 +1,15 @@
 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-my name is Ahmed Mohy & i'm a Passionate Software developer with a never-ending drive to improve my skills & a strong aptitude for problem-solving.
+My name is Ahmed Mohy & i'm a Passionate Software developer with a never-ending drive to improve my skills & a strong aptitude for problem-solving.
 
 Skilled in JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, PostgreSQL, MongoDB and more.
 
