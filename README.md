@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-My name is Ahmed Mohy & i'm a Passionate Software developer with a never-ending drive to improve my skills & a strong aptitude for problem-solving.
+i'm a Passionate Software developer with a never-ending drive to improve my skills & a strong aptitude for problem-solving.
 
 Skilled in JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, PostgreSQL, MongoDB and more.
 
