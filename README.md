@@ -15,9 +15,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-i'm a Passionate Software developer with a never-ending drive to improve my skills & a strong aptitude for problem-solving.
+Front-end developer with a passion for learning and an aptitude for problem-solving. I have experience working on projects in both solo and team settings. I am a quick learner and can adapt to new technologies quickly. I also have a knack for understanding complex problems and coming up with creative solutions.
+I have a passion for technology and have been working to build up my knowledge of HTML, CSS, and JavaScript in order to be able to develop and maintain high-quality, responsive websites. Also, I have been working on improving my communication and teamwork skills, which will be essential to my success in this field.
 
-Skilled in JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, PostgreSQL, MongoDB and more.
+Skilled in JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, PostgreSQL, MongoDB, and more.
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
