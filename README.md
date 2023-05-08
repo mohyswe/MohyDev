@@ -2,8 +2,9 @@
 
 <h1>
   
-  Hey 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+
+Hey 
 
 </h1>
 
@@ -12,8 +13,6 @@
 </div>
 
 Passionate software engineer with a strong desire to build innovative solutions and explore new technologies. I have experience working on complex projects in both solo and team settings. I am a quick learner and can adapt to new technologies quickly. My skill set includes JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, PostgreSQL, MongoDB, and more. I am committed to developing and maintaining high-quality, user-friendly applications that meet the needs of clients and end-users. Let's build something great together!
-
-Skilled in JavaScript, HTML, CSS, React, Redux, Typescript, Node, Express, PostgreSQL, MongoDB, and more.
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
