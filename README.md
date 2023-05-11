@@ -31,9 +31,7 @@ Passionate software engineer with a strong desire to build innovative solutions 
 &nbsp; &nbsp; &nbsp; &nbsp; 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MohyDev)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohyDev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohyDev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohyDev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MohyDev/MohyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
