@@ -26,6 +26,21 @@ Feel free to reach out to me. I'd love to chat about coding, technology, or anyt
 
 Happy coding! 🚀
 
+## Skills:
+
+    JavaScript
+    HTML
+    CSS
+    React
+    Redux
+    TypeScript
+    Node.js
+    Express.js
+    PostgreSQL
+    MongoDB
+    AWS
+    Git
+
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
