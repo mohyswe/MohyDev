@@ -41,15 +41,16 @@ Happy coding! 🚀
 
 ## :hammer_and_wrench: Languages and Tools
 
-![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg "React") &nbsp;
-![Redux](https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg "Redux") &nbsp;
-![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg "CSS3") &nbsp;
-![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg "HTML5") &nbsp;
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg "JavaScript") &nbsp;
-![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg "MySQL") &nbsp;
-![NodeJS](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg "NodeJS") &nbsp;
-![AWS]( <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="80" height="80"/>) &nbsp;
-![Git]( <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="80" height="80"/>)
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="80" height="80" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="80" height="80" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="80" height="80" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="80" height="80" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="80" height="80" /> &nbsp;
+
 
 ## :trophy: Codewars Badge
 
