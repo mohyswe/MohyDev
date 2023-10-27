@@ -58,9 +58,8 @@ Happy coding! 🚀
 
 ## Social Links
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">](https://www.linkedin.com/in/MohyDev)
+[<img src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg)" alt="LinkedIn" height="40">](https://www.linkedin.com/in/MohyDev)
 &nbsp; &nbsp; &nbsp; &nbsp; 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40">](https://twitter.com/MohyDev)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohyswe&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohyswe)
