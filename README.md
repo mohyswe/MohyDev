@@ -48,8 +48,8 @@ Happy coding! 🚀
 ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg "JavaScript") &nbsp;
 ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg "MySQL") &nbsp;
 ![NodeJS](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg "NodeJS") &nbsp;
-![AWS](https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg "AWS") &nbsp;
-![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg "Git")
+![AWS]( <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="80" height="80"/>) &nbsp;
+![Git]( <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="80" height="80"/>)
 
 ## :trophy: Codewars Badge
 
