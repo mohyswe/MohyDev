@@ -49,7 +49,7 @@ Happy coding! 🚀
 
 ## :trophy: Codewars Badge
 
-[![Codewars Badge](https://www.codewars.com/users/CodeByMohy/badges/large)](https://www.codewars.com/users/CodeByMohy)
+[![Codewars Badge](https://www.codewars.com/users/mohyswe/badges/large)
 
 ## Social Links
 
