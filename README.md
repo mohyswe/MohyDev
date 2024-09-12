@@ -19,7 +19,7 @@ Feel free to reach out—I’d love to chat about coding, technology, or anythin
 
 Happy coding! 🚀
 
-## Skills
+##  :hammer_and_wrench: Skills
 
 - Languages: JavaScript, TypeScript, Python
 - Frontend: HTML, CSS, React, Redux
@@ -44,12 +44,14 @@ Happy coding! 🚀
 
 ![Code Wars Badge](https://www.codewars.com/users/mohyswe/badges/large)
 
-## Social Links
+## LinkedIn
 
 [<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="LinkedIn" height="40">](https://www.linkedin.com/in/MohyDev)
 &nbsp; &nbsp; &nbsp; &nbsp; 
 
-## GitHub States & Top Languages
+## GitHub States
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohyswe&show_icons=true)
+
+## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohyswe)
