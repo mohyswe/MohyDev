@@ -49,7 +49,7 @@ Happy coding! 🚀
 [<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="LinkedIn" height="40">](https://www.linkedin.com/in/MohyDev)
 &nbsp; &nbsp; &nbsp; &nbsp; 
 
-## GitHub States
+## 📊 GitHub States
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohyswe&show_icons=true)
 
