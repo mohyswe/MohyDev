@@ -46,7 +46,7 @@ Happy coding! 🚀
 
 ## LinkedIn
 
-[<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="LinkedIn" height="40">](https://www.linkedin.com/in/MohyDev)
+[<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="LinkedIn" height="40">](https://www.linkedin.com/in/MohySwe)
 &nbsp; &nbsp; &nbsp; &nbsp; 
 
 ## 📊 GitHub States
